@@ -6,7 +6,7 @@
  * Paste the web app URL in Settings, or set TRIMZ_API_URL below.
  * The passcode must match SCRIPT_PASSWORD in Code.gs.
  */
-const TRIMZ_API_URL = "";
+const TRIMZ_API_URL = "https://script.google.com/macros/s/AKfycbyQuc-bgQ733X_bBA7OJK5X1Tkh1dlTY4xqFncctnchJXjcbnWW_LNy31vZ8PQ3ioxJ/exec";
 const TRIMZ_PASSCODE = "trimz123";
 const AUTO_SYNC_MS = 3 * 60 * 1000;
 
