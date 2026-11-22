@@ -1,4 +1,4 @@
-const CACHE = "trimz-desk-v7";
+const CACHE = "trimz-desk-v8";
 const FILES = [
   "./trimz.html",
   "./sheet-sync.js",
