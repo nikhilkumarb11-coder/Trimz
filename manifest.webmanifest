@@ -1,0 +1,16 @@
+{
+  "name": "TRIMZ Unisex Salon",
+  "short_name": "TRIMZ",
+  "description": "TRIMZ salon desk for billing, customers and the day book.",
+  "start_url": "./trimz.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "icons": [
+    { "src": "icons/trimz-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/trimz-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/trimz-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/trimz-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
